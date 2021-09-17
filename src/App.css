@@ -2,6 +2,7 @@ body {
   font-family: 'Source Code Pro', monospace;
   padding: 20px 70px;
   background-image: url('./assets/celyod-background.png');
+  background-size: cover;
 }
 
 a {
@@ -11,8 +12,4 @@ a {
 
 * {
   box-sizing: border-box;
-}
-
-.app-background {
-  
 }
